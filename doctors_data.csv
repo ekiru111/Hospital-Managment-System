@@ -1,0 +1,16 @@
+DoctorID,FirstName,LastName,Gender,Specialization,Department,Phone
+HMS/DOC/001,Alice,Heart,Female,Cardiology,Internal Medicine,0774324354
+HMS/DOC/002,Bob,Beat,Male,Cardiology,Internal Medicine,0788123456
+HMS/DOC/003,Charlie,Bone,Male,Orthopedics,Surgery,0709654321
+HMS/DOC/004,David,Lung,Male,Pediatrics,Childrens Health,0705745964
+HMS/DOC/005,Oluma,Joshua,Male,Orthopedics,Surgery,0754655521
+HMS/DOC/006,Samantha,Hale,Male,Pediatrics,Childrens Health,0787621328
+HMS/DOC/007,Desiree,Aguilar,Female,Cardiology,Internal Medicine,0787621328
+HMS/DOC/008,Tommy,Greene,Male,Cardiology,Internal Medicine,0787621328
+HMS/DOC/009,Bradley,Mueller,Male,Cardiology,Internal Medicine,0787621328
+HMS/DOC/010,Carol,Byrd,Female,Pediatrics,Childrens Health,0787621328
+HMS/DOC/011,Amanda,Garcia,Female,Orthopedics,Surgery,0787621328
+HMS/DOC/012,Karen,Wagner,Male,Orthopedics,Surgery,0787621328
+HMS/DOC/013,Thomas,Salinas,Female,Orthopedics,Surgery,0787621328
+HMS/DOC/014,Julie,Gonzalez,Female,Orthopedics,Surgery,0787621328
+HMS/DOC/015,Wanda,Galloway,Male,Orthopedics,Surgery,0787621328
