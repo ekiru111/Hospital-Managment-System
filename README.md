@@ -38,3 +38,9 @@ Tools: MySQL Workbench, VS Code
 3. **Synthetic Data Pipeline:** Wrote a Python script to populate the database, ensuring realistic local data formatting.
 4. **Data Validation:** Resolved critical errors regarding date formatting and string length constraints during the upload phase.
 5. **Testing:** Verified data integrity using complex SQL JOINs to generate hospital reports.
+
+
+## **Data Insights**
+Below is a visualization of the appointment distribution across various hospital departments, generated directly from the MySQL database using Python.
+
+![Appointment Distribution](appointment_chart.png)
