@@ -44,3 +44,18 @@ Tools: MySQL Workbench, VS Code
 Below is a visualization of the appointment distribution across various hospital departments, generated directly from the MySQL database using Python.
 
 ![Appointment Distribution](appointment_chart.png)
+
+
+### Key Features
+* **Authentication System:** Secure login portal for hospital staff with role-based access.
+* **Interactive Dashboard:** A command-line interface (CLI) for real-time patient and billing searches.
+* **Financial Module:** Automated billing generation that calculates consultation fees and pharmacy charges.
+* **Relational Database:** A robust MySQL schema involving 5+ linked tables, SQL Triggers, and Views.
+* **Robust Error Handling:** Python logic designed to handle missing data (NoneTypes) and database connection issues.
+
+
+### How to Run
+1. Clone the repository.
+2. Activate the virtual environment: `hms_venv\Scripts\activate`
+3. Install dependencies: `pip install mysql-connector-python matplotlib`
+4. Run the main portal: `python login_system.py`
